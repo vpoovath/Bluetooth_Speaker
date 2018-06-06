@@ -1,2 +1,2 @@
 # Trinicorp
-What if a wheelchair and Tesla had a baby? 
+A quick little repo for my first bluetooth speaker build. 
